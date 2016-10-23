@@ -1,0 +1,12 @@
+{
+  "name": "dotledger",
+  "version": "1.0.0",
+  "description": "Free and Open Source personal finance management tool.",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:kaleworsley/dotledger_webpack.git",
+    "type": "git"
+  },
+  "author": "Kale Worsley <kale@worsley.co.nz>",
+  "license": "Apache-2.0"
+}
